@@ -1,0 +1,4 @@
+﻿tạo một project mới coppy patch file main.cpp
+và 
+chạy kết quả file output sẻ nằm trong thư mục có chư file 
+.vcxproj vừa mới tạo 
